@@ -3,7 +3,7 @@ MESSMETER – ZERO WASTE MESS HACK
 **Team 28 - MessMeter Project**
 
 **Team Members:**
-- Likitha Sri
+- Likhitha Sri
 - Venkatesh 
 - Navneeth 
 
