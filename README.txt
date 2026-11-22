@@ -1,5 +1,14 @@
 MESSMETER – ZERO WASTE MESS HACK
 =================================
+**Team 28 - MessMeter Project**
+
+**Team Members:**
+- Likitha Sri
+- Venkatesh
+- Navneeth
+
+**Project Link:**
+https://github.com/Goginenikitha-cmd/MessMeter-project
 
 HOW TO RUN
 1. Extract MessMeter_Complete.zip.
