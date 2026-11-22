@@ -8,7 +8,7 @@ MESSMETER – ZERO WASTE MESS HACK
 - Navneeth
 
 **Project Link:**
-https://github.com/Goginenikitha-cmd/MessMeter_project
+https://github.com/Goginenikitha-cmd/MessMeter-project
 
 HOW TO RUN
 1. Extract MessMeter_Complete.zip.
