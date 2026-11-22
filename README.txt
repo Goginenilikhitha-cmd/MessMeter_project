@@ -4,11 +4,11 @@ MESSMETER – ZERO WASTE MESS HACK
 
 **Team Members:**
 - Likitha Sri
-- Venkatesh
-- Navneeth
+- Venkatesh 
+- Navneeth 
 
-**Project Link:**
-https://github.com/Goginenikitha-cmd/MessMeter_project
+**Project:**
+MessMeter - Hostel Mess Management
 
 HOW TO RUN
 1. Extract MessMeter_Complete.zip.
