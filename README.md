@@ -38,6 +38,7 @@ IMPORTANT PROJECT LIMITATIONS
 - The weekly dishes are sample entries and should be updated to match your hostel menu.
 
 PROJECT FILES
+
 index.html  - page structure
 style.css   - design and responsive layout
 script.js   - app interactions and browser data storage
