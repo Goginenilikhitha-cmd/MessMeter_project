@@ -1,45 +1,67 @@
-MESSMETER – ZERO WASTE MESS HACK
-=================================
-**Team 28 - MessMeter Project**
+# MessMeter - Zero Waste Mess Hack
 
-**Team Members:**
-- Likhitha Sri
-- Venkatesh 
-- Navneeth 
+MessMeter is a hostel mess management website that helps reduce food waste.
 
-**Project:**
-MessMeter - Hostel Mess Management
+Students can opt-in / opt-out of meals, view menus, rate dishes and give feedback.
 
-HOW TO RUN
-1. Extract MessMeter_Complete.zip.
-2. Open the extracted MessMeter_Complete folder in Visual Studio Code.
-3. Open index.html.
-4. If you have Live Server installed, right-click index.html and choose "Open with Live Server".
-   Otherwise, double-click index.html to open it in your browser.
-5. Internet is required for the optional Chart.js chart and Google Fonts. The rest of the app works locally.
+Mess staff can predict daily headcount, track food waste and plan the correct quantity of food to cook.
 
-FEATURES INCLUDED
+## Features
+
 - Homepage and navigation
 - Today's menu and 7-day weekly menu
 - Student meal opt-in / opt-out selection
-- Daily headcount predictor (enrolled students minus opt-outs)
+- Daily headcount predictor (enrolled - opt-outs)
 - Food waste logging in kilograms
-- Dish ratings from 1 to 5 and feedback
-- ZeroWaste KPI dashboard with waste chart, totals and dish summaries
-- Student and admin demo login forms
-- Export demo data as JSON
-- Browser localStorage saves demo entries on the same browser/device
+- Dish ratings (1-5) and feedback
+- Waste analytics using charts
 
-IMPORTANT PROJECT LIMITATIONS
-- This is a front-end demonstration project. Login forms do not authenticate real accounts.
-- Demo data is stored in the browser's localStorage, not a shared database. Different devices/browsers will not share data.
-- For real deployment, add a backend (for example Node.js/Express) and a database, and implement secure authentication.
-- The 6-hour advance notice is displayed as a reminder; this demo does not enforce a server-side deadline.
-- The weekly dishes are sample entries and should be updated to match your hostel menu.
+## Static Website
 
-PROJECT FILES
+- Built with HTML and CSS
+- Responsive layout for mobile and desktop
+- Homepage, Menu page, Feedback page
+- Weekly menu table with day-wise meals
+- Clean and simple UI for students and mess staff
 
-index.html  - page structure
-style.css   - design and responsive layout
-script.js   - app interactions and browser data storage
-README.txt  - setup and project notes
+## Dynamic Website
+
+- Built using vanilla JavaScript
+- Meal opt-in / opt-out updates headcount in real time
+- Headcount predictor calculates: Enrolled Students - Opt-outs
+- Waste log updates total waste and chart automatically
+- Ratings and feedback are stored and displayed instantly
+- Form validation for waste entry and feedback form
+- http://Chart.js used for waste analytics
+
+## Files
+
+- http://index.html - Homepage with navigation and today's menu
+- http://menu.html - 7-day weekly menu page
+- http://headcount.html - Meal opt-in / opt-out and headcount predictor
+- http://waste.html - Food waste logging and analytics
+- http://feedback.html - Dish ratings and feedback form
+- http://style.css - Styling for all pages
+- http://script.js - Logic for headcount, waste, ratings and charts
+
+## Tech Stack
+
+- HTML, CSS, JavaScript
+- http://Chart.js for Waste Analytics
+
+## How to Run
+
+1. Extract MessMeter_Complete.zip
+2. Open the extracted folder in VS Code
+3. Open http://index.html
+4. Right-click http://index.html -> Open with Live Server
+5. OR double-click http://index.html to open in browser
+6. Internet required for http://Chart.js
+
+## Team Members - Team 28
+
+- Likhitha Sri
+- Venkatesh
+- Navneeth
+
+GitHub: https://github.com/Goginenilikhitha-cmd/MessMeter_project
